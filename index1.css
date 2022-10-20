@@ -1,0 +1,279 @@
+
+.heading{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    color: black;
+}
+.paragraph{
+    font-family: 'Mulish', sans-serif;
+    font-size: 21px;
+    font-weight: 300px;
+    color: #7D7987;
+    
+}
+.button_shared{
+    font-family: 'Mulish', sans-serif; 
+    font-weight: 700px;
+    border-radius: 20px;
+    padding: 10px 40px 10px;
+    border: none; 
+    margin-top: 10%;
+    font-size: 18px;
+}
+.button_Consult{
+    color: aliceblue;
+    background-color:#458FF6;
+    font-weight: 700px;
+    margin-top: 10%;
+   
+}
+.button_learnMore
+{
+    color: #458FF6;
+    background-color: #fff;
+    border: #458FF6 solid 1px;
+    margin: 69px 400px;
+}
+.butto1
+{
+    margin: 10% 20px ;
+}
+.home{
+    display: flex;
+    margin: 0px 0px 190px 0px;
+    padding: 0px;
+}
+.navbar{
+   
+    display: flex;
+    width: 100%;
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 70px 0% 0px 30%;
+    font-family: 'Mulish', sans-serif;
+    color:  #1F1534 ;
+    font-weight: 400px;
+    
+}
+.navbar ul li{
+   margin: 10px;
+   float: left;
+   overflow: auto;
+}
+.font{
+    color:  #1F1534;
+    font-weight: 700;
+}
+.trafalgar_icon{
+ font-size: 26px;
+margin-top: 61px;
+margin-left: 200px;
+border-radius: 50%;
+margin-bottom: 0%;
+background-color: #458FF6;
+border: none;
+color: white;
+width: 41px;
+height: 41px;
+}
+.trafalgar_name{
+    color: black;
+    font-weight: 700px;
+    font-size: 24px;
+    margin-left: 250px;
+    margin-top: -33px;   
+    font-family: 'Mulish';
+    margin-bottom: 0%;
+
+}
+
+.part1{
+    width: 30%;
+  margin-left: 190px;
+  margin-top: 0%;
+}
+.head{
+    margin-top: 283px ;
+    font-size: 48px;
+ }
+.part2{
+    width:30% ;
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 127px;
+ 
+}
+img{
+    width: 100%;
+    height: 100%;
+   
+}
+
+.head{
+    margin-top: 110px;
+}
+.head2{
+    text-align: center;
+    font-size: 36px;
+}
+.p2{
+    margin :61px 325px 80px 323px;
+}
+.services{
+   
+    
+}
+.service{
+   
+    width: 275px;
+    height: 300px;
+   margin: 40px;
+   float: left;
+   border-radius: 10%;
+}
+.sub_service{
+    margin: 0px 12%;
+}
+.service img{
+    width: 91px;
+    height: 90px;
+    margin-top: 54px ;
+    margin-left: 37px;
+   
+}
+.head_serchDoc{
+    margin-top:22px ;
+    margin-left: 39px;
+    margin-bottom: 1px;
+ 
+}
+.paragraph_serch{
+    font-size: 16px;
+    margin-left: 39px;
+    margin-right: 45px;
+}
+.leading{
+    display: flex;
+}
+.part1_2{
+    margin: 100px 200px;
+}
+.leading_head{
+font-size: 30px;
+}
+.Download2{
+    margin-left: 50px;
+}
+.serv{
+    margin-left: -40px;
+}
+.customer{
+    width: 900px;
+    height: 425px;
+    background-color:#458FF6 ;
+    color: #fff;
+    margin: 200px 300px;
+    border-radius: 90px;
+}
+.head_customer{
+    text-align: center;
+    padding: 35px;
+    color: #fff;
+}
+.image5{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.h_EdwardNewgate{
+    color: #fff;
+    font-size: 22px;
+    margin: -40px 230px;
+}
+.h2_EdwardNewgate{
+    margin-top: 50px;
+    font-size: 18;
+}
+.customer_part2{
+    display: flex;
+}
+.customer_p2{
+  
+    margin-left: -80px;
+   width: 350px;
+}
+.customer_p1{
+   width: 650px;
+   margin: -30px;
+}
+.prag6{
+    color: white;
+    font-size: 19px;
+}
+.check_div1{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 100px;
+   
+}
+.check_div2{
+display: flex;
+margin-left: 60px;
+}
+.check_div2_1{
+    width: 25%;
+    height: 500px;
+    margin-left: 70px;
+}
+.Dtection_content{
+ margin: 33px 51px 33px 20px;   
+}
+.fontReadmore{
+    font-size: 17px;
+    font-weight: 600px;
+    color: #4089ED;
+}
+.img31{
+    
+    height: 40%;
+}
+.button2{ 
+    margin: 20px 0% 200px 45%;
+}
+.Tail{
+    height: 500px;
+    background-color: #4089ED;
+    display: flex;
+}
+
+.iconTail{
+    color: #4089ED;
+    background-color: #fff;
+}
+.nameTail{
+    color: #fff;
+}
+.paragTail{
+    width: 300px;
+    color: #fff;
+    margin-top: 30px;
+    margin-left: 220px;
+    font-size: 18;
+  
+}
+.tailContent2
+{
+   color: #fff;
+   margin: 50px 150px;
+   width: 100px;
+   font-weight: 200px;
+}
+.tailContent3{
+    margin-left: -90px;
+}
+.tailContent4{
+    margin-left: -90px;
+    
+}
